@@ -1,0 +1,30 @@
+h1
+{
+	color: rgb(151,84,14);
+}
+body
+{
+	background-color: rgb(80,80,80);
+}
+
+#texte1
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: rgb(199,250,255);
+	text-align: center;
+	align-content: center;
+}
+#texte1
+{
+	font-family: sans-serif,optima;
+}
+h1
+{
+	font-style: italic;
+	font-family: monospace,OCR A std;
+}
+ul li
+{
+	list-style-type: none;
+}
